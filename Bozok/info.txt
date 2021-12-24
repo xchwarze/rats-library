@@ -1,0 +1,6 @@
+Developer: Slayer616
+Compiler: Delphi
+Compatibility: 7/10/11
+Date Released: 2014-04-20
+Last Version Released: 1.5.1
+Web: ss-rat.blogspot.com
