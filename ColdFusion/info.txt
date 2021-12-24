@@ -1,0 +1,6 @@
+Developer: Flippmode, Read101 and satan_addict.
+Compiler: Delphi
+Compatibility: XP/??
+Date Released: 2005-02-14
+Last Version Released: 1.2 beta 5
+Web: nakedcrew.net

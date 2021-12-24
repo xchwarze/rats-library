@@ -1,4 +1,4 @@
-Developer: LOM
+Developer: ~LOM~
 Compiler: Delphi
 Compatibility: XP/??
 Date Released: 2003-04-08

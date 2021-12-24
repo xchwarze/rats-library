@@ -1,0 +1,6 @@
+Developer: s13az3
+Compiler: Delphi
+Compatibility: XP/??
+Date Released: 2004
+Last Version Released: 1.33
+Web: evileyesoftware.com
