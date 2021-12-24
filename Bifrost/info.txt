@@ -1,0 +1,6 @@
+Developer: ksv
+Compiler: C++
+Compatibility: XP/??
+Date Released: 2007-01-22
+Last Version Released: 1.2.1
+Web: chasenet.org

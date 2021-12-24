@@ -1,0 +1,6 @@
+Developer: shapeless
+Compiler: Delphi / MASM
+Compatibility: XP/??
+Date Released: 2008-01-12
+Last Version Released: 2.3.2
+Web: poisonivy-rat.com

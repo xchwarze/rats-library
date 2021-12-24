@@ -1,0 +1,6 @@
+Developer: LOM
+Compiler: Delphi
+Compatibility: XP/??
+Date Released: 2003-04-08
+Last Version Released: Assasin 2.0 Pegasus Public Beta 1.0
+Web: lommage.co.uk

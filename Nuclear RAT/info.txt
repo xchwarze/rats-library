@@ -1,0 +1,6 @@
+Developer: Caesar2k
+Compiler: Delphi
+Compatibility: Vista/??
+Date Released: 2007-09-07
+Last Version Released: 2.1.0
+Web: nuclearwintercrew.com
