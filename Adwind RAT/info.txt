@@ -1,0 +1,6 @@
+Developer: Adwind
+Compiler: Java
+Compatibility: ??
+Date Released: 2013
+Last Version Released: 3.0
+Web: https://indetectables.net/viewtopic.php?t=47884
